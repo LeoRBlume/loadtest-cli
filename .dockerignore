@@ -1,0 +1,11 @@
+.git
+.gitignore
+.idea
+.vscode
+docs
+README.md
+Dockerfile
+.dockerignore
+*.md
+loadtest-cli
+loadtest-cli.exe
